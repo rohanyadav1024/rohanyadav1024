@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanyadav1024" alt="rohanyadav1024" /></a> </p>
 
-<img src="https://github.com/rohanyadav1024/rohanyadav1024/blob/main/Image.png" alt="Cover Image" style="width:100%;"/>
+<img src="https://github.com/rohanyadav1024/rohanyadav1024/blob/main/Image-1.png" alt="Cover Image" style="width:100%;"/>
 
 - 🔭 I’m currently working on [Restaurant as a Service](https://github.com/rohanyadav1024/resto_backend.git)
 
