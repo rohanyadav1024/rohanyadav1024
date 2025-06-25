@@ -6,7 +6,7 @@
 
 <img src="https://github.com/rohanyadav1024/rohanyadav1024/blob/main/Image-1.png" alt="Cover Image" style="width:100%;"/>
 
-- 🔭 I’m currently working in [Hotwax Systems.](https://github.com/rohanyadav1024/resto_backend.git](https://www.hotwax.co/)
+- 🔭 I’m currently working in Hotwax Systems.https://www.hotwax.co/
 
 - 🌱 I’m currently learning **Golang, Machine Learning, Devops, System Design**
 
